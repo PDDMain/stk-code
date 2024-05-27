@@ -559,7 +559,7 @@
   <!-- List of default ports used, by default STK use random ports for client.
        The server discovery port has to be the same across all clients and servers.
   -->
-  <network-ports server-discovery-port="2757" client-port="2758" server-port="2759"/>
+  <network-ports server-discovery-port="54321" client-port="54322" server-port="54323"/>
 
   <!-- Configurable values used in SmoothNetworkBody class:
        min-adjust-length and max-adjust-length: Error in length smaller or larger
